@@ -28,38 +28,14 @@ Java原生MVC
 5.  系统信息（用户名：root，密码：toor）
 
 #### 项目结构
-![项目结构](https://images.gitee.com/uploads/images/2020/0506/024751_6c212c05_5105169.png "项目结构.png")
-
 #### 数据库模型
-
-![数据库模型](https://images.gitee.com/uploads/images/2020/0506/025913_dcc71b2a_5105169.png "Diagram 1.png")
-
 #### 运行截图
 -   **登录界面** 
-
-![登录界面](https://images.gitee.com/uploads/images/2020/0506/024229_458fa23c_5105169.png "1.png")
-
--  **主界面** 
-
-![主界面](https://images.gitee.com/uploads/images/2020/0506/024427_74162025_5105169.png "主界面.png")
-
--  **汽车信息** 
-
-![汽车信息](https://images.gitee.com/uploads/images/2020/0506/024456_d8bc905a_5105169.png "01.png")
-
--  **员工信息** 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0506/024540_9563649b_5105169.png "02.png")
-
--  **客户信息** 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0506/024557_c02eaa33_5105169.png "03.png")
-
--  **销售信息** 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0506/024605_6251d4e8_5105169.png "04.png")
-
-
+-  **主界面**
+-  **汽车信息**
+-  **员工信息**
+-  **客户信息**
+-  **销售信息**
 
 #### 开发者信息
 -  **_GhostGuest_** 
